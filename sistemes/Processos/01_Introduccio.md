@@ -5,3 +5,16 @@ Els processos en informàtica són un component fonamental que impulsa el funcio
 Entendre la dinàmica dels processos és vital per als desenvolupadors i els gestors de sistemes. A mesura que explorem aquest concepte, analitzarem els components clau d'un procés, els seus estats, i com es gestionen en el context dels sistemes operatius. Aprofundirem en la comunicació entre processos i en la seva gestió per garantir un entorn informàtic estable i eficient.
 
 Un coneixement profund dels processos no només millora la programació d'aplicacions, sinó que també contribueix a l'optimització del rendiment del sistema, essencial en un món digital cada cop més complex i interconnectat.
+
+## Índex
+[02_Components](02_Components.md)
+
+[03_Estats](03_Estats.md)
+
+[04_Planificació](04_Planificacio.md)
+
+[05_Comunicació](05_Comunicacio.md)
+
+[06_Gestió](06_Gestio.md)
+
+[07_Conclusió](07_Conclusio.md)
