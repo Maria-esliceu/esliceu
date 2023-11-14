@@ -17,15 +17,19 @@ Segons com el SO assigna temps de CPU a cada procés, tenim els següents algori
 1. **FIFO:** El primer que entra, el primer que surt.
 
 ![fifo](fifo.png)
+
 2. **Round Robin:** Repartim el temps entre els processos que esperen.
 
 ![round robin](rr.png)
+
 3. **SJF:** Executem primer els processos més curts.
 
 ![SJF](sjf.png)
+
 4. **SRT:** Primer els processos amb temps restant més curt.
 
 ![SRT](srt.png)
+
 5. **Prioritats**
 
 [00_Índex](00_Index.md)
