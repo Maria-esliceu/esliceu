@@ -22,3 +22,5 @@ La transició entre aquests estats pot ser provocada per diverses causes, com ar
 És important destacar que aquests estats i les seves transicions poden variar lleugerament segons el sistema operatiu i el model de gestió de processos utilitzat. Els sistemes operatius moderns implementen algorismes de planificació sofisticats per assegurar-se que els processos s'executen de manera eficient i justa en un entorn multitasca.
 ## Transició de Processos
 ![foto_esquema](foto_esquema.png)
+
+[00_Índex](00_Index.md)

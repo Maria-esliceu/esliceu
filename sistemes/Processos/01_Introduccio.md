@@ -6,15 +6,4 @@ Entendre la dinàmica dels processos és vital per als desenvolupadors i els ges
 
 Un coneixement profund dels processos no només millora la programació d'aplicacions, sinó que també contribueix a l'optimització del rendiment del sistema, essencial en un món digital cada cop més complex i interconnectat.
 
-## Índex
-[02_Components](02_Components.md)
-
-[03_Estats](03_Estats.md)
-
-[04_Planificació](04_Planificacio.md)
-
-[05_Comunicació](05_Comunicacio.md)
-
-[06_Gestió](06_Gestio.md)
-
-[07_Conclusió](07_Conclusio.md)
+[00_Índex](00_Index.md)

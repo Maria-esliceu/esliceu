@@ -23,3 +23,5 @@ Segons com el SO assigna temps de CPU a cada procés, tenim els següents algori
 4. **SRT:** Primer els processos amb temps restant més curt.
 ![SRT](srt.png)
 5. **Prioritats**
+
+[00_Índex](00_Index.md)

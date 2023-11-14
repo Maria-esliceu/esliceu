@@ -10,3 +10,5 @@ Els sistemes operatius són responsables de la gestió eficient dels processos p
 4. **Control de processos:** El sistema operatiu ofereix eines per iniciar, aturar i finalitzar processos. Això inclou la creació de nous processos, la gestió de la seva prioritat i l'eliminació segura dels processos que ja no són necessaris.
 
 5. **Comunicació interprocessual:** El sistema operatiu facilita la comunicació entre processos a través de diversos mecanismes, com ara pipes, sockets i memòria compartida. Aquesta comunicació és essencial perquè els processos cooperin i compartixin informació.
+
+[00_Índex](00_Index.md)

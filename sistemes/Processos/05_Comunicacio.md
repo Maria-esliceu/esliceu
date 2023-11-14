@@ -8,3 +8,5 @@ En entorns informàtics, és comú que els processos necessitin comunicar-se ent
 3. **Memòria compartida:** A través de l'ús d'àrees de memòria compartida, diversos processos poden accedir i modificar dades en un espai de memòria comú. Aquesta tècnica és eficient per a la comunicació ràpida entre processos, ja que elimina la necessitat de transferir explícitament les dades.
 
 4. **Signaling (Senyalització):** Els processos poden comunicar-se enviant senyals entre ells. Aquests senyals poden ser utilitzats per notificar esdeveniments o gestionar interrupcions. Exemples comuns són els senyals de UNIX, com SIGTERM o SIGKILL.
+
+[00_Índex](00_Index.md)

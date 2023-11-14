@@ -8,3 +8,5 @@ La comunicació entre processos és una peça clau per a la cooperació entre di
 La gestió eficient dels processos és una tasca complexa, ja que implica equilibrar la necessitat d'assegurar-se que cada procés obtingui els recursos que necessita amb la de mantenir un rendiment general del sistema òptim. Aquesta tasca recau en els sistemes operatius, que implementen algorismes i estratègies per garantir una gestió de processos eficaç.
 
 En resum, els processos formen la base del funcionament dels sistemes informàtics moderns. La seva comprensió profunda no només és crítica per als desenvolupadors, sinó també per als administradors de sistemes, assegurant-se que els recursos del sistema s'utilitzen de manera eficient i proporcionant un entorn d'execució estable i coherent per a les aplicacions.
+
+[00_Índex](00_Index.md)
