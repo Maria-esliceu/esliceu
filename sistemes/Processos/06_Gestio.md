@@ -11,4 +11,4 @@ Els sistemes operatius són responsables de la gestió eficient dels processos p
 
 5. **Comunicació interprocessual:** El sistema operatiu facilita la comunicació entre processos a través de diversos mecanismes, com ara pipes, sockets i memòria compartida. Aquesta comunicació és essencial perquè els processos cooperin i compartixin informació.
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)

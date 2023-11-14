@@ -9,4 +9,4 @@ La gestió eficient dels processos és una tasca complexa, ja que implica equili
 
 En resum, els processos formen la base del funcionament dels sistemes informàtics moderns. La seva comprensió profunda no només és crítica per als desenvolupadors, sinó també per als administradors de sistemes, assegurant-se que els recursos del sistema s'utilitzen de manera eficient i proporcionant un entorn d'execució estable i coherent per a les aplicacions.
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)

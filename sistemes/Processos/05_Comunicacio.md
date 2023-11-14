@@ -9,4 +9,4 @@ En entorns informàtics, és comú que els processos necessitin comunicar-se ent
 
 4. **Signaling (Senyalització):** Els processos poden comunicar-se enviant senyals entre ells. Aquests senyals poden ser utilitzats per notificar esdeveniments o gestionar interrupcions. Exemples comuns són els senyals de UNIX, com SIGTERM o SIGKILL.
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)

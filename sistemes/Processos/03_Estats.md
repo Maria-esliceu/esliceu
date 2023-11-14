@@ -23,4 +23,4 @@ La transició entre aquests estats pot ser provocada per diverses causes, com ar
 ## Transició de Processos
 ![foto_esquema](foto_esquema.png)
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)

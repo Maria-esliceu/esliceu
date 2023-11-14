@@ -8,4 +8,4 @@ Els processos estan formats per diversos components, incloent:
 
 4. **Espai d'adreces:** Cada procés té el seu propi espai d'adreces de memòria, que inclou codi, dades, pila i altres àrees. Aquesta separació evita que un procés afecti directament la memòria d'un altre.
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)

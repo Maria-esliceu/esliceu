@@ -32,4 +32,4 @@ Segons com el SO assigna temps de CPU a cada procés, tenim els següents algori
 
 5. **Prioritats**
 
-[00_Índex](00_Index.md)
+[Readme](readme.md)
